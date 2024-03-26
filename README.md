@@ -1,0 +1,1 @@
+Creating a mini-project for managing patients in a hospital using Tkinter involves designing a graphical user interface (GUI) where hospital staff can perform tasks such as adding new patients, updating patient information
